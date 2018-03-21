@@ -13,4 +13,6 @@ To integrate WishListMember with Sendy after you have made the above edit and up
 4. Check the "Unsubscribe if Removed from Level" box if desired
 5. Update your AutoResponder Settings
 
+![WLM Page for Integration](https://www.evernote.com/l/ALulVEtHtM1LR6D8zXwSaC-grEmNXUA9rJAB/image.png)
+
 One of these days, I will upload my "customized Sendy pages" package, which allows you to add/remove/change functionality on a cosmetic level without having to edit the individual core files, so that you can still update Sendy without trouble. I added a section in the subscribe form popover on the list page that provides the above URL for each of my lists for easy access. In the meantime, you'll have to copy your list ID and URL by hand...
